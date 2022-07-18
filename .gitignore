@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+geopackages/*.gpkg-shm
+geopackages/*.gpkg-wal
 
 # C extensions
 *.so
